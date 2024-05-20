@@ -17,6 +17,8 @@ Make a fun dice.
 - BOSS Laser 2436 or similar.
 
 ## Instructions
+
+## Prepare
 Find a piece of MDF board and determine its thickness. They are all different.
 - Measure the thickness of your board with calipers.
 <img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/caliper.png" width="250">
@@ -24,6 +26,7 @@ Find a piece of MDF board and determine its thickness. They are all different.
 - The measure like this:
 <img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/thickness.png" width="250">
 
+### Drawings
 Draw a Box by connecting to the Maker Case website and select:
 - Simple box (we dont really have the time to make complex boxes but you can make them at [Xerocraft](https://xerocraft.org/) in Tucson e.g. Saturday is open hack).
 - Thickness you measured.
@@ -38,7 +41,7 @@ Create the Plans setting the following and downloading an SVG file:
 - Kerf and Corner Compensation 0.1mm (you need to cut less because the laser beam has a width)
 <img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/drawings.png" width="250">
 
-Update the Plans:
+### Update the Plans
 - Load the SVG file with Inkscape on a computer.
 - Ungroup the imported graphics with Object/Ungroup.
 - Replace the text with your own graphics. Forexample: https://www.svgrepo.com/svg/532061/moon-stars. Line Icons work well as the laser just draws the lines.
@@ -48,6 +51,7 @@ Update the Plans:
 - Save the modified SVG file.
 <img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/inkscape.png" width="250">
 
+### Convert
 Convert the SVG file to Laser Cutter Format:
 - Save the SVG file to DXF. Make sure to use Millimeters as units (mm).
 - Open the RDWorksV8.exe program.
@@ -56,36 +60,12 @@ Convert the SVG file to Laser Cutter Format:
   - If it looks ok you can copy the DXF file to a flash drive. Make sure it has your name in the filename.
 <img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/laserworks.png" width="250">
 
-## Creating the parts
+### Create the parts
 This is intended for counselors and staff only.
 Staff should collate several files so it takes less time to cut.
+[Using the laser cutter](LaserCutter.md)
 
-### Start the Laser
-- Toggle the switch on the Table. The air pump needs to vibrate, the fan needs to make noise, the chiller needs to show about 22 centi grades.
-- If all looks ok start the laser by turning the key (perhaps you also need to turn and release the emergency button). 
-- Load your DXF file into RDWorks on the laser cutter computer.
-
-Select all the objects and adjust the cutting properties by clicking on the colors on the top right. See the laserworks image above.
-- The cutting color needs to cut with 40mm/s and 95% power
-- The text color needs to cut with 350mm/s and 80% power
-
-Select all the objects and click Upload. Give a short filename. Acknowledge the Upload.
-
-On the laser push file, select your file. It should look like on the computer screen.
-
-Place the wood on top of the cutting bed.
-
-Push ESC and then move the cutting head with the arrows to the top right corner of the board. Push Origin.
-
-Push ESC, then Z/U and select autofocus. Let the machine focus.
-
-Push Z/U select Z and make sure it reads about 6mm. Use the left/right arrows to adjust.
-
-Push ESC, then Frame and make sure the object fits onto the board as the laser head draws the outline of all objects. If it does not fit, move the board.
-
-Finally cut the parts with buttom right button.
-
-## Assemble
+### Assemble
 Put the parts together. 
 You can use some white wood glue to make them stick better. But use only small amount and only on the sides that touch other wood.
 
