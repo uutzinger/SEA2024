@@ -13,17 +13,16 @@ Make a fun dice.
 - Inkscape to edit and change your drawings. Any Computer. [Obtain it here](https://inkscape.org/release/inkscape-1.2/)or Adobe Illustrator
 
 ### Hardware
-- One piece of MDF wood particle board. Approximately 1/8 inch thick
+- One piece of MDF wood particle board. Approximately 1/8 inch thick.
 - BOSS Laser 2436 or simiar
 
 ## Instructions
-Find a pieve of MDF board and determine its thickness:
+Find a pieve of MDF board and determine its thickness. They are all different.
 - Meaure the thickness of your MDF board with calipers.
 - The calipers need to show 0mm when they are closed
 - The measure like this:
 
-Draw a Box
-Connect to the website and select:
+Draw a Box by connecting to the Maker Case website and select:
 - Simple box
 - Thickness you measured
 - Closed box
@@ -31,10 +30,12 @@ Connect to the website and select:
 - Finger joints
 - Adjust equal dimensions no larger than 50x50x50mm.
 - Adjust finger size so that it looks like this:
+<img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/makercase.png" width="250">
 
 Create the Plans:
 Download the svg file and set the following:
 - Kerf and Corner Compensation 0.1mm (you need to cut less because the laser beam has a width)
+<img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/drawings.png" width="250">
 
 Update the Plans:
 - Load the SVG file with Inkscape on a computer.
@@ -44,6 +45,7 @@ Update the Plans:
 - Likely its too large and wont fit. Click on the imported object and select Object/Transform. Scale it proportionally to for example 10%.
 - Adjust the Color and Stroke with Object / Fill and Stroke. The Stroke Point should be black (R,G,B is 0). Then the Stroke Stule should be 0.1mm Width.
 - Save the modified SVG filed
+<img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/inkscape.png" width="250">
 
 Convert the SVG file to Laser Cutter Format
 - Save the SVG file to DXF. Make sure to use Millimeters as units (mm).
@@ -51,6 +53,7 @@ Convert the SVG file to Laser Cutter Format
 - Import the DXF file.
 - Make sure its size matches your expectations.
 - If it looks ok you can copy the DXF file to a flashdrive. Make sure it has your name in the filename.
+<img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/laserworks.png" width="250">
 
 ## Creating the parts
 
