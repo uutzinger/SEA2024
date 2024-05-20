@@ -1,4 +1,4 @@
-## Start the Laser
+## How to Get Laser Going
 - Toggle the switch on the Table. The air pump needs to vibrate, the fan needs to make noise, the chiller needs to show about 22 centi grades.
 - If all looks ok start the laser by turning the key (perhaps you also need to turn and release the emergency button). 
 - Load your DXF file into RDWorks on the laser cutter computer.
