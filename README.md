@@ -1,6 +1,11 @@
 # SEA2024
 BME Summer Engineering Academy 2024 Urs Utzinger
 
+Make a fun dice.
+
+
+![alt text](filename)
+
 ## Requirements
 
 ### Software
