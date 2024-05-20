@@ -22,6 +22,7 @@ Make a fun dice.
 Find a piece of MDF board and determine its thickness. They are all different.
 - Measure the thickness of your board with calipers.
 <img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/caliper.png" width="250">
+
 - The calipers need to show 0mm when they are closed.
 - Then measure like this:
 <img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/thickness.png" width="250">
