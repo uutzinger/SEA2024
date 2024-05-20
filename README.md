@@ -4,7 +4,7 @@ BME Summer Engineering Academy 2024 Urs Utzinger
 Make a fun dice.
 
 
-![alt text](filename)
+![Dice](assets/dice.png)
 
 ## Requirements
 
