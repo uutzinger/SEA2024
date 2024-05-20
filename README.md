@@ -12,7 +12,7 @@ BME Summer Engineering Academy 2024 Urs Utzinger
 - One piece of MDF wood particle board. Approximately 1/8 inch thick
 - BOSS Laser 2436 or simiar
 
-## Instructons
+## Instructions
 Find a pieve of MDF board and determine its thickness:
 - Meaure the thickness of your MDF board with calipers.
 - The calipers need to show 0mm when they are closed
@@ -30,8 +30,9 @@ Connect to the website and select:
 
 Create the Plans:
 Download the svg file and set the following:
-- Kerf and Corner Compensation 0.25mm (you need to cut less because the laser beam has a width)
+- Kerf and Corner Compensation 0.1mm (you need to cut less because the laser beam has a width)
 
 Update the Plans:
-- Load the file with Inkscape
+- Load the SVG file with Inkscape
+- Replace the text with your own 
   
