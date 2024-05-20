@@ -1,7 +1,7 @@
 # SEA2024
 A fun BME Summer Engineering Academy project for 2024 by [Urs Utzinger](https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger)
 
-Make a dice.
+Make a dice in an hour.
 
 <img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/dice.png" width="250">
 
@@ -17,7 +17,7 @@ Make a dice.
 - BOSS Laser 2436 or similar.
 
 ### Staff Preparation
-- Staff needs to make one of the dice themselves before attempting it.
+- Staff needs to make one of the dice themselves before attempting to held the lab it.
 - Computers need to have Inkscape and optionally the laserworks software installed.
 - There likely is enough scrap MDF around, but one should check and adjust maximum size of the dice accordingly.
   
