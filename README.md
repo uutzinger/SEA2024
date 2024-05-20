@@ -66,13 +66,13 @@ Convert the SVG file to Laser Cutter Format:
   - If it looks ok you can copy the DXF file to a flash drive. Make sure it has your name in the filename.
 <img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/laserworks.png" width="250">
 
-### Create the parts
+### Create the Parts
 This is intended for counselors and staff only.
 Staff should collate several files so it takes less time to cut.
 [Using the laser cutter](LaserCutter.md)
 
-### Assemble
-Put the parts together. 
+### Assemble the Parts
+Put the parts together. The fit snug.
 You can use some white wood glue to make them stick better. But use only small amount and only on the sides that touch other wood.
 
 
