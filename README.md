@@ -19,8 +19,10 @@ Make a fun dice.
 ## Instructions
 Find a pieve of MDF board and determine its thickness. They are all different.
 - Meaure the thickness of your MDF board with calipers.
+<img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/caliper.png" width="250">
 - The calipers need to show 0mm when they are closed
 - The measure like this:
+<img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/thickness.png" width="250">
 
 Draw a Box by connecting to the Maker Case website and select:
 - Simple box
