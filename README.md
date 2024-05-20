@@ -58,7 +58,7 @@ Convert the SVG file to Laser Cutter Format:
 
 ## Creating the parts
 This is intended for counselors and staff only.
-Staf should collate several files so it takes less time to cut.
+Staff should collate several files so it takes less time to cut.
 
 ### Start the Laser
 - Toggle the switch on the Table. The air pump needs to vibrate, the fan needs to make noise, the chiller needs to show about 22 centi grades.
