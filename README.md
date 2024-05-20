@@ -1,7 +1,7 @@
 # SEA2024
-BME Summer Engineering Academy 2024 Urs Utzinger
+A fun BME Summer Engineering Academy project for 2024 by [Urs Utzinger](https://bme.engineering.arizona.edu/faculty-staff/faculty/urs-utzinger)
 
-Make a fun dice.
+Make a dice.
 
 <img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/dice.png" width="250">
 
@@ -16,6 +16,11 @@ Make a fun dice.
 - One piece of MDF wood particle board. Approximately 1/8 inch thick.
 - BOSS Laser 2436 or similar.
 
+### Staff Preparation
+- Staff needs to make one of the dice themselves before attempting it.
+- Computers need to have Inkscape and optionally the laserworks software installed.
+- There likely is enough scrap MDF around, but one should check and adjust maximum size of the dice accordingly.
+  
 ## Instructions
 
 ## Prepare
