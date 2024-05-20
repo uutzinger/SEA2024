@@ -3,9 +3,7 @@ BME Summer Engineering Academy 2024 Urs Utzinger
 
 Make a fun dice.
 
-
-![Dice](assets/dice.png)
-<img src="[https://cloud.githubusercontent.com/assets/dice.png" width="250">
+<img src="https://raw.githubusercontent.com/uutzinger/SEA2024/master/assets/dice.png" width="250">
 
 ## Requirements
 
