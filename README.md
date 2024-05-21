@@ -17,9 +17,14 @@ Make a dice in an hour.
 - BOSS Laser 2436 or similar.
 
 ### Staff Preparation
-- Staff needs to make one of the dice themselves before attempting to held the lab it.
+- Staff needs to make one of the dice themselves before attempting to holding the lab.
 - Computers need to have Inkscape and optionally the laserworks software installed.
 - There likely is enough scrap MDF around, but one should check and adjust maximum size of the dice accordingly.
+
+### Timing
+- Making the design takes about 30 minutes
+- Staff collating and makeing the parts about an hour.
+- Assembling the parts takes about 20 minutes.
   
 ## Instructions
 
